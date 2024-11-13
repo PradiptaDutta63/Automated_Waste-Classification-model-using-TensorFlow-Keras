@@ -95,7 +95,7 @@ This project demonstrates a practical application in waste management:
 - **Larger Dataset:** Collecting more diverse samples or using transfer learning could increase model generalization.
 
 ## Acknowledgement
-This project was conducted as part of an assessment and the dataset used is [[TrashNet Dataset]](https://www.kaggle.com/datasets/feyzazkefe/trashnet)
+This project was conducted as part of an assessment and the dataset used is [TrashNet Dataset](https://www.kaggle.com/datasets/feyzazkefe/trashnet)
 
 
 ## Contributors
