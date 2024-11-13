@@ -67,9 +67,11 @@ The model_evaluation.py script evaluates the trained model on the test dataset. 
 **Without Data Augmentation**
 - Test Accuracy: 62.40%
 - Training Time: Shorter per epoch
+
 **With Data Augmentation**
 - Test Accuracy: 69.30%
 - Training Time: Longer per epoch
+
 **Unseen Data**
 - Test Accuracy on Unseen Data: 88.24%
 The model with data augmentation achieved higher accuracy, demonstrating the effectiveness of augmentation in improving model generalization.
@@ -93,7 +95,7 @@ This project demonstrates a practical application in waste management:
 - **Larger Dataset:** Collecting more diverse samples or using transfer learning could increase model generalization.
 
 ## Acknowledgement
-This project was conducted as part of an assessment and the dataset used is [![TrashNet Dataset]](https://www.kaggle.com/datasets/feyzazkefe/trashnet)
+This project was conducted as part of an assessment and the dataset used is [[TrashNet Dataset]](https://www.kaggle.com/datasets/feyzazkefe/trashnet)
 
 
 ## Contributors
